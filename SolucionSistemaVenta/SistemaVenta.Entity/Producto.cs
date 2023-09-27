@@ -21,6 +21,7 @@ public partial class Producto
 
     public string? NombreImagen { get; set; }
 
+    public string? NombreCategoria { get; set; }
     public decimal? Precio { get; set; }
 
     public bool? EsActivo { get; set; }

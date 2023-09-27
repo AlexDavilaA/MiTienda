@@ -8,7 +8,7 @@ namespace SistemaVenta.AplicacionWeb.Models.ViewModels
 
         public string? Descripcion { get; set; }
 
-        public bool? EsActivo { get; set; }
+        public bool? esActivo { get; set; }
 
         
     }

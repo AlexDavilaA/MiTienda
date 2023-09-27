@@ -15,7 +15,7 @@
         public int? Stock { get; set; }
 
         public string? UrlImagen { get; set; }
-
+        public int? NombreCategoria { get; set; }
 
         public decimal? Precio { get; set; }
 
