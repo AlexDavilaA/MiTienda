@@ -1,0 +1,20 @@
+ioel ezdu nzfo aftz
+integradorequipo6@gmail.com
+
+firebase
+codigo9000@gmai.com
+codigo9000 (credenciales para subir archvios multimedia)
+mitiendaonline-9453c.appspot.com
+AIzaSyAJsgPaGo5vzLOqqIi3P-Bf9uOPxjGKKlM
+
+-ENVIO DE CORREOS
+-Servicio de guardar archivos multimedia
+
+
+-Visual Studio
+-Gmail
+-Firebase
+
+Paquetes Extras
+
+System.ArgumentException
