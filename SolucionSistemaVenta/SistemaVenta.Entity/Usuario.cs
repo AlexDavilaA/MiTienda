@@ -16,6 +16,8 @@ public partial class Usuario
     public int? IdRol { get; set; }
 
     public string? UrlFoto { get; set; }
+    
+    public string? NombreFoto { get; set; }
 
     public string? Clave { get; set; }
 
